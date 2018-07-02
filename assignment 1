@@ -1,0 +1,10 @@
+1.mkdir DevOps
+2. cd DevOPs, touch LinuxCommands
+3.pwd
+4. cd .., mkdir LinuxOs
+5. cd LinuxOs, touch about, nano about
+6. mv LinuxOS linux
+7.pwd, ls -l
+8.cd ..,cd DevOps, touch about.txt,nano about.txt
+9. ls
+10.cp about.txt
